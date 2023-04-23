@@ -1,6 +1,5 @@
 # GRIND-datamanipulator
 
-#I have made graphical user interface to load csv files to modify them in a certain way.
-#After loading a file it saves it as a modified file.
+#I have created a graphical user interface to load CSV files and modify them in a certain way. After loading a file, it is saved as a modified file.
 
-#I have made also couple extra buttons to plot this data using matplotlib.
+#I have also added a couple of extra buttons to plot this data using Matplotlib.
